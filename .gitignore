@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Build output
+frontend/dist/
+
+# Environment files
+.env
+.env.local
+
+# Local SQLite database (created automatically on first run)
+backend/database/*.db
+backend/database/*.db-*
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db

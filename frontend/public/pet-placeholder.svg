@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="Pet placeholder">
+  <rect width="800" height="600" fill="#F7F3E9"/>
+  <circle cx="400" cy="275" r="150" fill="#78966C" opacity="0.18"/>
+  <g fill="#78966C">
+    <ellipse cx="330" cy="230" rx="34" ry="46" transform="rotate(-18 330 230)"/>
+    <ellipse cx="400" cy="205" rx="34" ry="46"/>
+    <ellipse cx="470" cy="230" rx="34" ry="46" transform="rotate(18 470 230)"/>
+    <path d="M400 270c-55 0-100 43-100 92 0 42 31 68 73 68 16 0 24-7 27-7s11 7 27 7c42 0 73-26 73-68 0-49-45-92-100-92z"/>
+  </g>
+  <text x="400" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#2F3A2F">PawHome</text>
+</svg>
